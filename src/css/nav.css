@@ -1,0 +1,9 @@
+.active{color : #2db7f5}
+.disActive{color: #333;}
+.navStyle {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    border-top: 1px solid #333;
+    padding-top: 5px;
+}
